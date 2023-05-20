@@ -1,0 +1,7 @@
+thengso@thengso-virtual-machine:~$ mkdir ROBOT_CLASS
+mkdir: cannot create directory ‘ROBOT_CLASS’: File exists
+thengso@thengso-virtual-machine:~$ ls
+Desktop    git_tutorial         Pictures     Templates
+Documents  Music                Public       test_folder
+Downloads  open_source_project  ROBOT_CLASS  Videos
+thengso@thengso-virtual-machine:~$ 
